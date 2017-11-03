@@ -1,2 +1,2 @@
-# react-native-scripts
+# My App scripts
 my app
